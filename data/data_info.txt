@@ -1,0 +1,20 @@
+Data columns (total 18 columns):
+ #   Column                                  Non-Null Count  Dtype  
+---  ------                                  --------------  -----  
+ 0   Campaign ID                             33 non-null     object 
+ 1   Campaign Name                           33 non-null     object 
+ 2   Audience                                33 non-null     object 
+ 3   Age                                     33 non-null     object 
+ 4   Geography                               33 non-null     object 
+ 5   Reach                                   33 non-null     int64  
+ 6   Impressions                             33 non-null     int64  
+ 7   Frequency                               33 non-null     float64
+ 8   Clicks                                  33 non-null     int64  
+ 9   Unique Clicks                           33 non-null     int64  
+ 10  Unique Link Clicks (ULC)                33 non-null     int64  
+ 11  Click-Through Rate (CTR)                33 non-null     float64
+ 12  Unique Click-Through Rate (Unique CTR)  33 non-null     float64
+ 13  Amount Spent in INR                     33 non-null     float64
+ 14  Cost Per Click (CPC)                    33 non-null     float64
+ 15  Cost per Result (CPR)                   33 non-null     float64
+ 16  Revenue                                 33 non-null     float64
