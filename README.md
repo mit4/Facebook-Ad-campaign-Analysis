@@ -1,16 +1,29 @@
-# Facebook Ad Campaign Analysis Project
+# Facebook Ad Campaign Analysis
+
+<p align="center">
+<img src ="img\cover.jpeg">
+</p>
 
 ## Introduction
 
 Welcome to the Facebook Ad Campaign Analysis Project! This project is a comprehensive analysis of Facebook ad campaigns, aimed at uncovering valuable insights and performance metrics to optimize advertising strategies on the platform.
-![campaign](reports/figures/rev%20per%20camp.png)
 
 ## Project Overview
 
 In an age where digital advertising plays a pivotal role in reaching and engaging with target audiences, understanding the effectiveness of Facebook ad campaigns is of paramount importance. This project utilizes a rich dataset containing detailed information on various ad campaigns, including audience demographics, reach, impressions, and financial metrics.
 
+## Facebook Metrics
+
+To evaluate ad campaign performance, we consider a range of [Facebook metrics](img\metrics_guide.png), including:
+
+- **Impressions** : The number of times the ad was viewed.
+- **Frequency** : How often the ad was shown to a single user on average.
+- **Reach** : The number of unique users who viewed the ad.
+- **Unique Click Links (Result)** : The number of unique users who clicked on ad links, indicating engagement.
+
 ## Data Overview
 
+![campaign](reports/figures/rev%20per%20camp.png)
 The [dataset](data/Data.xlsx) used in this project contains 18 columns, including Campaign ID, Campaign Name, Audience, Age, Geography, and a range of Facebook metrics such as Reach, Impressions, Clicks, and Revenue. These metrics provide a comprehensive view of how each ad campaign performed. More info about is [here.](data/data_info.txt)
 
 ## Goals of Facebook Ads
@@ -22,19 +35,11 @@ Our primary objectives in analyzing these Facebook ad campaigns are as follows:
 - **Generate More Website Visitors** : Identify campaigns that led to higher click-through rates and unique link clicks, driving more website traffic.
 
 - **Brand Awareness**: Measure the impact of ad campaigns on brand awareness using metrics like Impressions and Reach.
+[Here are some insights about facebook ad campaign](img\insight.jpg)
 
 ## Target Selection
 
 Targets for these ad campaigns were carefully chosen based on specific geography and age ranges. Understanding how these factors affect campaign performance is a key focus of our analysis.
-
-## Facebook Metrics
-
-To evaluate ad campaign performance, we consider a range of Facebook metrics, including:
-
-- **Impressions** : The number of times the ad was viewed.
-- **Frequency** : How often the ad was shown to a single user on average.
-- **Reach** : The number of unique users who viewed the ad.
-- **Unique Click Links (Result)** : The number of unique users who clicked on ad links, indicating engagement.
 
 ## Conclusion
 
